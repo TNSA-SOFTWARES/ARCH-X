@@ -7,6 +7,8 @@
 
 #(c)TNSA AI 2023 - 2024 (All Rights Reserved)
 
+#only for personal use not not for the commercial use only for developers 
+
 
 """MIT License
 
